@@ -61,7 +61,7 @@ Transfere Learning
 
 GloVe model
 
-RN
+RNN
 
 NMF
 
